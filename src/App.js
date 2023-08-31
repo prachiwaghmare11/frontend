@@ -13,7 +13,7 @@ const App = () => {
     <main className='py-3'>
       <Container>
       <Outlet>
-      <HomeScreen></HomeScreen>
+        <HomeScreen></HomeScreen>
       </Outlet>
         
       </Container>
